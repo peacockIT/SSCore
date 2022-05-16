@@ -22,7 +22,7 @@
 #include <iostream>
 #include <vector>
 
-#include "SSOrbit.hpp"
+#include "../SSOrbit.hpp"
 
 // Stores data for an individual term in a VSOP2013 series
 

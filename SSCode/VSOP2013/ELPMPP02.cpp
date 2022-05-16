@@ -11,7 +11,7 @@
 #include <fstream>
 #include <string>
 
-#include "SSCoordinates.hpp"
+#include "../SSCoordinates.hpp"
 #include "ELPMPP02.hpp"
 
 #define PRINT_SERIES 0  // 1 to convert input ELPMPP02 series data files to output .cpp source code

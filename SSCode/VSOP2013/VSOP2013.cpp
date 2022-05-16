@@ -4,8 +4,8 @@
 // Created by Tim DeBenedictis on 4/26/20.
 // Copyright © 2020 Southern Stars. All rights reserved.
 
-#include "SSUtilities.hpp"
-#include "SSMatrix.hpp"
+#include "../SSUtilities.hpp"
+#include "../SSMatrix.hpp"
 #include "VSOP2013.hpp"
 
 #include <iostream>
