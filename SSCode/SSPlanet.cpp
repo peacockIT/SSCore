@@ -31,8 +31,8 @@
 #define USE_VSOP_ELP 1
 #endif
 #if USE_VSOP_ELP
-#include "VSOP2013.hpp"
-#include "ELPMPP02.hpp"
+#include "VSOP2013/VSOP2013.hpp"
+#include "VSOP2013/ELPMPP02.hpp"
 static bool _useVSOPELP = true;
 static VSOP2013 _vsop;
 static ELPMPP02 _elp;
